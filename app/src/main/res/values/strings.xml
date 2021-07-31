@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyBike</string>
+    <string name="ride_quick_start">Quick Start</string>
+</resources>
